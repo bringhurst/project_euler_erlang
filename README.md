@@ -1,4 +1,4 @@
-project_euler_erlang
-====================
+Project Euler in Erlang
+=======================
 
 My attempts at doing project euler in erlang.
